@@ -1,6 +1,6 @@
 # Dinara Navshirvanova
 ## Contact Information:  
-**GitHub:** [dinara-n](https://github.com/dinara-nv)  
+**GitHub:** [dinara-n](https://github.com/dinara-n)  
 **Discord:** Dinara (@dinara-n)  
 ## About Myself:  
 I want to become a front-end developer and create appealing, user-friendly and fast websites.
