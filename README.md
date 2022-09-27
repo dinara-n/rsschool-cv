@@ -1,2 +1,1 @@
-# rsschool-cv
-A CV task for RSSchool's Frontend/JS course
+https://dinara-n.github.io/rsschool-cv/
