@@ -7,7 +7,8 @@ I want to become a front-end developer and create appealing, user-friendly and f
 ## Skills:
 * HTML5, CSS3
 * Sass
-* JavaScript Basics
+* JavaScript, TypeScript
+* React
 * Git, GitHub
 * Figma, Photoshop
 ## Code Example:
@@ -17,7 +18,7 @@ function multiply(a, b){
 }
 ```
 ## Education:
-* Adaptive Website Coding and Automation by HTML Academy
-* JavaScript/Front-end by RS School (in progress)
+* 2022: [Adaptive Website Coding and Automation by HTML Academy](https://assets.htmlacademy.ru/certificates/intensive/265/552479.pdf)
+* 2022-2023: [JavaScript/Front-end by RS School](https://app.rs.school/certificate/fk4tqjhm)
 ## English Level:
 Advanced (C1), according to several online tests.
